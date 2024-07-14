@@ -32,7 +32,6 @@ Analyze sales and promotions data to identify key trends and insights, segmentin
   - Promotion (62,4)
 - **Key columns:** Day_of_week, channel, event_hour, event_type, category, sub_category1, sub_category2, brand, price, user_session, State, User_Score
 - **Calculated/Dax columns:** Active title, Average discount, Average user score, Purchase ratio, Set benchmark, Top brand by customer, Top reviewed brand, top sold category, etc.
-- [**Data set Link**](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/tree/main/Dataset)
 - [**Data Model**](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/blob/main/data%20model.png)
 
 ## 🔎 Key Findings
