@@ -56,6 +56,9 @@ Analyze sales and promotions data to identify key trends and insights, segmentin
 9. Review and optimize discount strategy
 
 ## 📌 Project Presentation
+### Video Presentation
+[![E-commerce Sales Analysis Presentation](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/blob/main/cover.png)]()
+
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/blob/main/presentation.pdf)
