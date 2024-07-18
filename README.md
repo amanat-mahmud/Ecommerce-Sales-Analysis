@@ -61,7 +61,7 @@ Analyze sales and promotions data to identify key trends and insights, segmentin
 
 
 ### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/blob/main/presentation.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Data Loading and Transformations.
