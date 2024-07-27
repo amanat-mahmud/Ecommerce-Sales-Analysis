@@ -13,7 +13,7 @@
 - [Dashboard](#-dashboard)
 
 ## ❓ Problem Statement
-The company faces challenges in optimizing sales and promotions strategies, necessitating a deeper understanding of user behavior, product performance, and promotional impact across various dimensions.
+In a competitive market, understanding the factors driving sales performance, profitability, and customer satisfaction is crucial for sustainable growth. Our organization faces challenges in identifying top performing products, optimizing inventory, optimizing sales and promotions strategies necessitating a deeper understanding of user behavior. Additionally, we need to understand the financial impact of discounts  to enhance our profit margins.
 
 ## 🎯 Objective
 Analyze sales and promotions data to identify key trends and insights, segmenting analysis by Overview, Product, Day/Time, Brand, and State for targeted insights. Aims include identifying best-selling brands, assessing financial health, understanding various factors' impact on sales, and providing actionable recommendations.
